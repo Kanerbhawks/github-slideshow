@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Patrick Kane is a beast.
 Use the left arrow to go back!
